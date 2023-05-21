@@ -16,4 +16,4 @@ int main(){
 	product= a*b;
 	printf("Product is %d",product);
 	
-}
+}  
